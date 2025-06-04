@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
 <meta charset="UTF-8" />
@@ -37,7 +36,7 @@
 <h1>線上圖卡抽籤</h1>
 <button onclick="drawCard()">抽一張圖卡</button>
 <br />
-<img id="card" src="" alt="請點擊抽籤" />
+<img id="https://www.notion.so/_assets/app-de29758654f9d2ab.css" src="" alt="請點擊抽籤" />
 
 <script>
   const cards = [
