@@ -1,7 +1,6 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8">
-  <title>抽一張卡</title>
   <style>
     body {
       font-family: '微軟正黑體', sans-serif;
