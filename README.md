@@ -47,7 +47,6 @@
     const cards = [
       "https://drive.google.com/uc?export=view&id=1PS2nyGqu0PekwOk-YH9I9yq_E9AxWIK4", 
       "https://i0.wp.com/janstockcoin.com/wp-content/uploads/2021/06/pexels-photo-747964-scaled.jpeg?fit=2560%2C1616&ssl=1",
-      "https://www.notion.so/1ed0c329cd8f8098bd28c3da90231f4c?source=copy_link#2080c329cd8f808a9489d58ee5b33993"
     ];
 
     function drawCard() {
