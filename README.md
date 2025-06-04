@@ -38,7 +38,7 @@
 </head>
 <body>
 
-  <h1>抽一張圖卡吧！</h1>
+  <h1>抽出一張指引祝福吧！</h1>
   <button onclick="drawCard()">🎴 抽卡</button>
 
   <div id="result"></div>
